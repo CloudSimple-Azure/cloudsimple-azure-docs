@@ -1,3 +1,23 @@
+--- 
+title: Access Azure VMware Solution by CloudSimple - Portal 
+description: Describes how to access VMware Solution by CloudSimple portal from Azure portal
+infoBubbleText="Problems related to inbound traffic through a Public IP address to an application in CloudSimple Private Cloud"
+author: sharaths-cs 
+ms.author: b-shsury 
+ms.date: 09/06/2019 
+ms.topic: article 
+ms.service: azure-vmware-cloudsimple 
+ms.reviewer: cynthn 
+manager: dikamath
+displayOrder=""
+selfHelpType="generic"
+supportTopicIds="32627556"
+resourceTags=""
+productPesIds="16733"
+cloudEnvironments="public"
+articleId="50595BF8-2B72-4910-AE39-65F3988E387C"
+---
+
 # Troubleshooting public ip address network connectivity 
 
 ## **Recommended steps**
@@ -11,6 +31,6 @@
 
 ## **Recommended documents**
 
-[Public IP address](https://docs.cloudsimple.com/csportal/network/publicips/)<br>
-[Firewall Rules](https://docs.cloudsimple.com/csportal/network/firewall/#firewall-rules)<br>
-[VLANs/Subnets](https://docs.cloudsimple.com/csportal/network/vlansubnet/)
+[Public IP address](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/public-ips)<br>
+[Firewall Rules](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/firewall#firewall-rules)<br>
+[VLANs/Subnets](https://docs.microsoft.com/en-us/azure/vmware-cloudsimple/create-vlan-subnet)
